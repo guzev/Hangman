@@ -11,6 +11,14 @@ To run the game just use command line:
 To run test use command:
 ```python -m unittest -v test/test_game.py```
 
+To check code style use command:
+```pycodestyle --first test/test_game.py```
+
+Copyright © 2017 [Guzev Ivan]. See [license] for details.
+
+[Guzev Ivan]: https://github.com/guzev/
+[license]: LICENSE.txt
+
 [travis-url]: https://travis-ci.org/guzev/Hangman
 [travis-badge]: https://travis-ci.org/guzev/Hangman.svg?branch=master
 [coverage-image]: https://codecov.io/gh/guzev/Hangman/branch/master/graph/badge.svg
